@@ -27,7 +27,7 @@ DWORD WINAPI foo(LPVOID lparam) { /*LPVOID magic*/
 		printf("foo\n");
 	}
 	/* hold the thread to watch it in the procexp */
-	Sleep(50);
+	Sleep(5000000);
 	return 1;
 
 }
