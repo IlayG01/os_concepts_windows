@@ -1,13 +1,20 @@
 # os_concepts_windows 
-> investigate windows os concepts.
+> Investigate Windows OS Concepts.
 
-## content
+## Content
 * Syscalls
-* Threads
-* Processes
+* Threads & Multithreading
+* Processes & Multiprocessing
 * Locks - CriticalSections & Mutexs
 * Semaphores
+* Memory Management
+* Memory Mapping
+* Memory Sharing
+* Dynamic-Link Libraries & Dll Injection
+* PE Files & IAT Hooking
 
-### credit
+### Credit
 * *Ilay Gilman*
-* **content written in c**
+
+### NOTICE
+**content written in c**
