@@ -13,7 +13,7 @@ Purpose   : loading whole file into heap|physical ram - (waste of memory).
 
 /*****************************************************************************************************\
 * Function Name                           :                 count_in_data
-* Function Porpuse                        :                 counting 'a' appearance in recieved buffer
+* Function Porpuse                        :                 counting revieved sign appearance in recieved buffer
 * Function Params                         :                 LPSTR data, CHAR sign_to_count
 * Return Values                           :                 int number_of_appearance
 * Remarks                                 :                 ASCII sign only
