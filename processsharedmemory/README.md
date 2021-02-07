@@ -14,8 +14,8 @@
 
 ## External Resources
 
-- [CreateFile-MSDN]https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea
-- [CreateFileMapping-MSDN]https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createfilemappinga
+- [CreateFile-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea)
+- [CreateFileMapping-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createfilemappinga)
 - [MapViewOfFile-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-mapviewoffile)
 - [OpenFileMappingA-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-openfilemappinga)
 
