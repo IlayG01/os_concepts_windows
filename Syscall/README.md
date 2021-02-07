@@ -1,7 +1,7 @@
 # syscall
 > watching windows syscall.
 
-![syscall_example](https://github.com/IlayG01/processes_and_threads_win32/blob/master/images/upllery_arch.png)
+![syscall_example](https://github.com/IlayG01/os_concepts_windows/blob/master/Syscall/Images/procmonstack.jpg)
 
 ## external resources
 https://www.youtube.com/watch?v=lhToWeuWWfw
