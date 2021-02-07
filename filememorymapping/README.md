@@ -15,9 +15,9 @@
 
 ## External Resources
 
-- https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/malloc?view=msvc-160
+- [Malloc-MSDN](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/malloc?view=msvc-160)
 
 ### Notice
 
 - garbage file can be any txt/bin file
-- more efficient way mentioned here
+- more efficient way mentioned [here](https://github.com/IlayG01/os_concepts_windows/tree/master/minimalfilememorymapping)
