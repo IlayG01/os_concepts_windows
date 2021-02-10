@@ -12,10 +12,8 @@ Were about to manipulate this table, in order to run our own code.
 
 ## External Resources
 
-- [LoadLibraryA-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya)
-- [GetProcAddress-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress)
-- [Function Pointers in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
-- [Difference between load-time & run-time linking](https://stackoverflow.com/questions/2055840/difference-between-load-time-dynamic-linking-and-run-time-dynamic-linking)
+- [InlineAssembler](https://en.wikipedia.org/wiki/Inline_assembler)
+- [VirtualProtect-MSDN](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect)
 
 ### Notice
 
